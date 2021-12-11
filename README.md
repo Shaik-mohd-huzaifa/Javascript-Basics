@@ -6,9 +6,10 @@ Lets learn basics of Javascript
 <img src="js basics.png">
 <br><br><br>
 console.log(`Here Veeru's age is ${$VeeruAge} and Jay's Age is ${$JayAge}`);<br>
-<br>
-<br>
-<br>
+
+
+```javascript
+
 // Truthy and false values<br>
 // Their are 5 values which gives a false boolean value<br>
 // This are: "", 0 , null, NaN, Undefined<br>
@@ -39,9 +40,11 @@ if($undef){<br>
 }<br>
 else{<br>
     console.log(`Value not Defined`);<br>
-}<br>
-<br>
-<br>
+}
+```
+
+
+```js
 // Equality Operators === & ==<br>
 // Here loose equality : == is does not check the value lossly means it don't care what type it is<br>
 // if the value matches the it is true<br>
@@ -80,6 +83,9 @@ prompt(`Enter Your Age`);<br>
 // try to sugest people for pack of 10<br>
 <br>
 <br>
+```
+
+```javascript
 /* Here as said that prompt understand any value enter as string but we want a<br>
 number as input because we are not gonna use loose(==) so to manually convert<br>
 the string use Number() */<br>
@@ -113,4 +119,4 @@ if(CustomerChoice !== RecommendedPack){<br>
     console.log("Try to buy pack of 10 next time");<br>
 }<br>
 <br>
-
+```
