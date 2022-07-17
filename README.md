@@ -47,7 +47,35 @@ Modern Javascript |
 
 <blockquote>I can understand too Confusing 🥵😢🤣</blockquote>
 
+<br>
 Where Else is Javascript Used? Is it only used to create dynamic webpages?
 
 NOPE! Javascript can be used to create Mobile applications, ios, Android applications, Server-side Applications, native applicatio, Desktop Applications, Games, and many more. Andddd
 once you are a pro in Javascript you can play with it and you would know it better what to do with it.
+
+What are Javascript Libraries & Frameworks?
+
+Libraries and frameworks work as a readymade structure which just need to be installed and used.
+Frameworks are used to create a better and more efficient way to create a website. They save a lot of time and effort. The code is clean and easy to understand. You will learn more about them in future as you go deeper into Javascript.
+
+Some of the most used Javascript Libraries and Frameworks are:
+
+|   Library    |                                                            Icon                                                             |
+| :----------: | :-------------------------------------------------------------------------------------------------------------------------: |
+|   React.js   |        ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)        |
+| React Native | ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) |
+|  Angular.js  |       ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)       |
+|    Vue.js    |      ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)      |
+|  Bootstrap   |    ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)    |
+|   Node.js    |           ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)           |
+|  Express.js  |  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)  |
+|   Next.js    |            ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)             |
+|  Iconic.js   |            ![Iconic](https://img.shields.io/badge/Iconic-16B7FB?style=for-the-badge&logo=react&logoColor=black)             |
+| Electron.js  |       ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)        |
+
+<br>
+What are these frameworks used for?
+
+- **React.js** : is used to create fully dynamic, animated, and interactive webpages.
+
+- **React Native** : is used to create cross platform applications. Which means you just have to code for one platform and React native will automatically fetch the code for the rest other platform.
