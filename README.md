@@ -86,3 +86,9 @@ What are these frameworks used for?
 - **React.js** : is used to create fully dynamic, animated, and interactive webpages.
 
 - **React Native** : is used to create cross platform applications. Which means you just have to code for one platform and React native will automatically fetch the code for the rest other platform.
+
+- **Electron.js** : is used to create dynamic, robust desktop apps for MacOs, Windows and Linux 
+- **Node.js** : Is used to create efficient server side applications
+
+Topics we would Cover and Details about this course is in below File
+[Learn the Basics of Javascript](https://github.com/Shaik-mohd-huzaifa/Javascript-Basics/blob/5bbd18cf2492964fecab3c9d59169943f07dea19/Learn.md)
