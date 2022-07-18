@@ -1,6 +1,5 @@
 # Javascript Basics For Beginners
-
-> Lets learn basics of Javascript
+ Lets learn basics of Javascript
 
 > #### Here what ever is thought is the very basics of Javascript. Which is very is easy and simple.
 
