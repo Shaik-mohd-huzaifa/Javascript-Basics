@@ -16,13 +16,19 @@ Javascript adds a functionality to a WebApplication like fetching data from the 
 
 ![](https://github.com/Shaik-mohd-huzaifa/Javascript-Basics/blob/e8d3283bce17f1595433e60d4263be6091fe78c7/Illustration/1.png)
 
+<br>
+
 > Why Should you choose Javascript?
 
 Well, Javascript is a very powerful language which can be used to create dynamic webpages with just minimal effort and code. You Won't Take allot of time to learn Javascript.
 
+<br>
+
 > Version of Javascript we are using from ES6 to ES11.
 
-What is ES6?
+<br>
+
+> What is ES6?
 
 ES Stands for ECMA Script which is a javascript standard to ensure the connection between the browser and the server. ES6 is a known as the start for _Modern Javascript_ before this till ES5 it was Old Javascript which lacked allot of buildin functions.
 
