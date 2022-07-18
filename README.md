@@ -14,6 +14,8 @@ Javascript adds a functionality to a WebApplication like fetching data from the 
 
  Javascript act as backend and is used to communicate with the server. Send and Recieve data from the server and present it to the client. Javascript is used to create  dynamic webpages.
 
+![](https://github.com/Shaik-mohd-huzaifa/Javascript-Basics/blob/e8d3283bce17f1595433e60d4263be6091fe78c7/Illustration/1.png)
+
 > Why Should you choose Javascript?
 
 Well, Javascript is a very powerful language which can be used to create dynamic webpages with just minimal effort and code. You Won't Take allot of time to learn Javascript.
